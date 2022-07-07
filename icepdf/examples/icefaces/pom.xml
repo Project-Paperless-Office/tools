@@ -30,7 +30,7 @@
         <icefaces.version>4.0.0</icefaces.version>
         <icepdf.version>6.2.2</icepdf.version>
         <!-- Versions of JSF implementations -->
-        <mojarra.version>2.2.4</mojarra.version>
+        <mojarra.version>2.2.6</mojarra.version>
         <!-- Various library versions settable from one place -->
         <annotation.version>1.0</annotation.version>
         <el.version>2.2.1</el.version>
